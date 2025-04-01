@@ -2,7 +2,7 @@
 
 **DAOdyssey** is a Play-to-Earn NFT game developed on the **Solana blockchain**, where players can upgrade their **heroes** and **strongholds** as they explore and navigate through the expansive **Daos Fun world**.
 
-This game offers a fun, immersive experience where players can collect, trade, and upgrade digital assets, with true ownership via **NFTs**. Dive into the DAOsFun world and build your legacy!
+This game offers a fun, immersive experience where players can collect, trade, and upgrade digital assets, with true ownership via **NFTs**. Dive into the Daos Fun world and build your legacy!
 
 ## Features
 
@@ -75,7 +75,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-For any inquiries or issues, feel free to reach out to us via GitHub Issues or at **contact@daodyssey.com**.
+For any inquiries or issues, feel free to reach out to us via GitHub Issues or at **daodysseyapp@gmail.com**.
 
 ---
 
