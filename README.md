@@ -1,6 +1,6 @@
 # DAOdyssey: Play-to-Earn NFT Game
 
-**DAOdyssey** is a Play-to-Earn NFT game developed on the **Solana blockchain**, where players can upgrade their **heroes** and **strongholds** as they explore and navigate through the expansive **DAOsFun world**.
+**DAOdyssey** is a Play-to-Earn NFT game developed on the **Solana blockchain**, where players can upgrade their **heroes** and **strongholds** as they explore and navigate through the expansive **Daos Fun world**.
 
 This game offers a fun, immersive experience where players can collect, trade, and upgrade digital assets, with true ownership via **NFTs**. Dive into the DAOsFun world and build your legacy!
 
